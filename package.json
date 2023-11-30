@@ -4,8 +4,7 @@
   "description": "tutorial to learn jest testing",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "watch": "jest --watchAll"
+    "test": "jest --watchAll --verbose"
   },
   "author": "Scott Wright",
   "license": "ISC",
