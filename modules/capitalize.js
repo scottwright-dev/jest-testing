@@ -8,8 +8,3 @@ function capitalize(string) {
   }
 
   export default capitalize;
-
-  console.log(capitalize('hello'));
-  console.log(capitalize('fish'));
-  console.log(capitalize('Fish and chips'));
-  console.log(capitalize('ALL CAPS'));
