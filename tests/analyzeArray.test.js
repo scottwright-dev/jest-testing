@@ -1,4 +1,3 @@
-// An analyzeArray function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 import analyzeArray from "../modules/analyzeArray";
 
 test('returns an object contains average, min, max and length properties', () => {
